@@ -17,6 +17,9 @@ int main()
 	}
 	cout<< "Nice job.\n";
 
+	cout<< "test\n";
+	cout<< "test\n";
+
 	char cc;
 	cin >> cc;
 }
